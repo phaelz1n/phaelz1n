@@ -1,8 +1,6 @@
 # Hey there, I'm Raphael! 👋
 
-<p align="center">
-  <em>ADS student • Astronomy enthusiast • Curious mind</em>
-</p>
+<p align="center"><em>ADS student • Astronomy enthusiast • Curious mind</em></p>
 
 Welcome to my GitHub profile! I'm Raphael, also known online as **phaelz1n**. I enjoy learning how technology works and exploring the universe through astronomy and physics.
 
@@ -29,19 +27,20 @@ Welcome to my GitHub profile! I'm Raphael, also known online as **phaelz1n**. I 
 
 ## Tech & Tools
 
-> This section is intentionally easy to update as I gain experience.
+<p align="left">
+  <img src="https://img.shields.io/badge/Programming%20Logic-In%20progress-6C63FF?style=flat-square" alt="Programming logic" />
+  <img src="https://img.shields.io/badge/Systems%20Analysis-Studying-6C63FF?style=flat-square" alt="Systems analysis" />
+  <img src="https://img.shields.io/badge/Web%20Development-Exploring-6C63FF?style=flat-square" alt="Web development" />
+</p>
 
-`Add your technologies here` · `Add your tools here` · `Add your frameworks here`
+*More technologies will be added as I gain experience.*
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phaelz1n&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raphael's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaelz1n&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phaelz1n&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=phaelz1n&style=flat-square&color=6C63FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/phaelz1n?style=flat-square&color=6C63FF&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/phaelz1n?style=flat-square&color=6C63FF&label=Stars" alt="GitHub stars" />
 </p>
 
 ## Contact
